@@ -1,0 +1,14 @@
+
+.CartItem{
+   
+    padding: 10px;
+    margin: 10px;
+}
+.cartRvwbutton{
+    background-color: goldenrod;
+    width : 150px;
+    height : 30px;
+    border : 1px solid gray;
+    border-radius : 5px;
+}
+
